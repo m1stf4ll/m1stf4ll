@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://mourningstar.atabook.org/?page=1">𝐚𝐭𝐚</a> • <a href="LINK_DISCORD">𝐝𝐢𝐬</a>
+<a href="https://mourningstar.atabook.org/?page=1">𝐚𝐭𝐚</a> • <a href="https://discord.gg/fD8rkXGy">𝐝𝐢𝐬</a>
 
 </div>
 
